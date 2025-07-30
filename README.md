@@ -43,13 +43,5 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruchiraghav&theme=dark&hide_border=false" alt="GitHub Streak" height="180" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruchiraghav&show_icons=true&theme=dark&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchiraghav&layout=compact&theme=dark&hide_border=true" height="180" />
-</p>
 
