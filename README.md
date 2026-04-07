@@ -3,13 +3,13 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ruchi Raghav</h1>
-<h3 align="center">🚀 Developer | 💻 JavaScript Stack Enthusiast | 💡 Exploring Python & AI</h3>
+<h3 align="center">🚀 Developer | 💻 JavaScript Stack Enthusiast </h3>
 
 ---
 
 ### 💬 About Me
 - 🎯 I’m passionate about building Web applications and solving real-world problems  
-- 🌱 Currently learning **Python for AI** and improving backend skills  
+- 🌱 Currently improving backend skills 
 - 🧠 Applying my knowledge through full-stack projects  
 - 📫 Reach me at: **ruchiraghavcool@gmail.com**
 
@@ -27,6 +27,20 @@
 
 ---
 
+### 🚀 Projects
+
+- 🌍 **Tourism Website**  
+  Developed a responsive tourism platform showcasing destinations, travel packages, and booking features with a clean UI.
+
+- 📚 **Book Management System**  
+  Built a full-stack application to manage books, genres, and user interactions with CRUD operations and authentication.
+
+- 💸 **Expense Tracker**  
+  Created a full-stack expense tracking app with income/expense management, dashboard analytics, and MongoDB integration.  
+  🔗 Live Demo: https://trackexpense-1-frontend-oxj9.onrender.com
+
+---
+
 ### 🛠️ Tech Stack
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" />
@@ -36,12 +50,14 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35" />
 </p>
 
 ---
+ 
+
+
 
 
 
